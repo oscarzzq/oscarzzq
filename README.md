@@ -6,12 +6,12 @@ I am a Computer Science and Statistics student at the University of California B
 * 🎓 Currently studying Computer Science and Statistics at UC Berkeley.
 * 💼 Working as a Software Engineer Intern at Baro Behavior, building a real-time behavioral tracking backend with Supabase and PostgreSQL.
 * 🔬 Previously conducted Machine Learning and Data Science research at Peking University and Fudan University.
-* 📫 Reach out via [LinkedIn](https://linkedin.com/in/oscar-ziqian-zhang) or email at oscarzhangzzq@gmail.com.
+* 📫 Reach out via [LinkedIn](https://linkedin.com/in/oscar-ziqian-zhang).
 * 🥁 In my free time, I enjoy running, drumming, dancing, and exploring startups.
 
 ## 🛠️ Technical Skills
 * **Languages:** Python, Java, JavaScript, C, C++, SQL, HTML, CSS.
-* **Technologies & Frameworks:** React, React Native, Node.js, Express.js, Spring Boot, Expo, Flask, TailwindCSS.
+* **Technologies & Frameworks:** React, React Native, Node.js, Express.js, Expo, Flask, TailwindCSS.
 * **Data & Machine Learning:** Pandas, NumPy, Matplotlib, Sklearn, PyTorch, TensorFlow, Beautiful Soup.
 * **Core Concepts:** Distributed Systems, System Design, Machine Learning, RESTful APIs, Object-Oriented Programming.
 
